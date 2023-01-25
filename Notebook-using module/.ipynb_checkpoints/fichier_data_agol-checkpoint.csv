@@ -1,0 +1,16 @@
+,BTAVAILABILITYLOGSID,MESSAGE,TSTART,TEND,Alarm_number,delta_time
+1,2060070,Battery Charger Failure Cleared,2021-05-06 01:12:12+00:00,2021-05-06 01:18:16+00:00,Alarm 1,0 days 00:06:04
+2,2060069,LVPS Line Failure Cleared,2021-05-06 01:12:12+00:00,2021-05-06 01:18:16+00:00,Alarm 2,0 days 00:06:04
+3,2060076,LVPS Line Failure Cleared,2021-05-06 01:12:16+00:00,2021-05-06 01:18:12+00:00,Alarm 3,0 days 00:05:56
+4,2059912,Train in Full Manual Mode Cleared,2021-05-06 01:13:18+00:00,2021-05-06 01:21:23+00:00,Alarm 4,0 days 00:08:05
+5,2058722,Emergency Brake Trainline Deenergized VATC Cleared,2021-05-06 01:15:28+00:00,2021-05-06 01:46:12+00:00,Alarm 5,0 days 00:30:44
+6,2058899,Inaccurate Station Stop Short Cleared,2021-05-06 01:27:25+00:00,2021-05-06 01:43:05+00:00,Alarm 6,0 days 00:15:40
+7,2058641,Train Failed to Arrive Cleared,2021-05-06 01:41:38+00:00,2021-05-06 01:47:35+00:00,Alarm 7,0 days 00:05:57
+8,2053623,Emergency Brake Trainline Deenergized VATC Cleared,2021-05-06 01:48:51+00:00,2021-05-06 04:59:58+00:00,Alarm 8,0 days 03:11:07
+9,2053629,Inaccurate Station Stop Short Cleared,2021-05-06 01:58:25+00:00,2021-05-06 04:59:54+00:00,Alarm 9,0 days 03:01:29
+10,2057424,Train Failed to Arrive Cleared,2021-05-06 02:22:27+00:00,2021-05-06 02:26:56+00:00,Alarm 10,0 days 00:04:29
+11,2057503,Unscheduled Stop Cleared,2021-05-06 02:22:48+00:00,2021-05-06 02:23:34+00:00,Alarm 11,0 days 00:00:46
+12,2056902,Battery Charger Failure Cleared,2021-05-06 02:47:22+00:00,2021-05-06 02:51:47+00:00,Alarm 12,0 days 00:04:25
+13,2056901,LVPS Line Failure Cleared,2021-05-06 02:47:22+00:00,2021-05-06 02:51:47+00:00,Alarm 13,0 days 00:04:25
+14,2056759,Summary Doors Failed to Close Cleared,2021-05-06 02:49:33+00:00,2021-05-06 02:55:31+00:00,Alarm 14,0 days 00:05:58
+15,2054139,Unscheduled Stop Cleared,2021-05-06 04:38:07+00:00,2021-05-06 04:38:25+00:00,Alarm 15,0 days 00:00:18
